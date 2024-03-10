@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CN/Untitled.canvas",
+                "file": "CN/CN-3.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 1537.0470196167612,
+                  "y": -495.07844243093666,
+                  "zoom": -1
                 }
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CN/Untitled.canvas",
+                "file": "CN/CN-3.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CN/Untitled.canvas",
+                "file": "CN/CN-3.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CN/Untitled.canvas"
+                "file": "CN/CN-3.canvas"
               }
             }
           }
@@ -169,8 +169,13 @@
   },
   "active": "a97e470fc0222d80",
   "lastOpenFiles": [
+    "images/Pasted image 20240310223547.png",
+    "images/Pasted image 20240310223137.png",
+    "images/Pasted image 20240310222858.png",
+    "images/Pasted image 20240310222611.png",
+    "images/Pasted image 20240310211116.png",
     "CN/CN-1.canvas",
-    "CN/Untitled.canvas",
+    "CN/CN-3.canvas",
     "CN/CN-1.md",
     "images",
     "images/Pasted image 20240310181459.png",
@@ -179,10 +184,6 @@
     "images/Pasted image 20240310175029.png",
     "images/Pasted image 20240310174606.png",
     "images/Pasted image 20240310174107.png",
-    "images/Pasted image 20240310173312.png",
-    "images/Pasted image 20240310162703.png",
-    "images/Pasted image 20240310145035.png",
-    "images/Pasted image 20240310131215.png",
     "HOME/ARSHAD SEM-5.md",
     "HOME/Untitled Kanban.md",
     "HOME.md",
