@@ -1,0 +1,15 @@
+{
+  "readableLineLength": true,
+  "defaultViewMode": "preview",
+  "showFrontmatter": false,
+  "attachmentFolderPath": "M3/pics",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
+}
