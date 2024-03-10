@@ -5,8 +5,8 @@
     "dashboard-ReadLineLength",
     "canvas"
   ],
-  "cssTheme": "",
+  "cssTheme": "Sanctum",
   "baseFontSize": 16,
   "nativeMenus": false,
-  "theme": "obsidian"
+  "theme": "moonstone"
 }

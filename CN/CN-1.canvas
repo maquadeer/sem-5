@@ -1,6 +1,42 @@
 {
 	"nodes":[
-		{"id":"47c2da3bf7619edd","x":-180,"y":240,"width":250,"height":60,"type":"text","text":""}
+		{"id":"37dd051ce21a8ff3","type":"group","x":1140,"y":-466,"width":1517,"height":3423,"color":"6","label":"2"},
+		{"id":"d49c07762a3aefeb","type":"group","x":-1260,"y":-974,"width":2080,"height":2040,"color":"4","label":"1"},
+		{"id":"6b5e3988dfa38107","type":"group","x":2840,"y":-700,"width":1375,"height":2311,"color":"3","label":"TCP"},
+		{"id":"bf51deb4de213ee5","type":"group","x":-1667,"y":1241,"width":1934,"height":1315,"color":"1","label":"3"},
+		{"id":"47c2da3bf7619edd","type":"text","text":"# BASICS","x":-100,"y":-40,"width":250,"height":60,"color":"#f21818"},
+		{"id":"8977ec39f3e74aab","type":"file","file":"images/Pasted image 20240310130832.png","x":-255,"y":-440,"width":560,"height":363},
+		{"id":"83b98a67448522bb","type":"file","file":"images/Pasted image 20240310131215.png","x":-1240,"y":120,"width":650,"height":440},
+		{"id":"0f77d0014bc3c3a3","type":"text","text":"https://youtube.com/playlist?list=PLFLVHSOGJXqIqz9edu0BNeSTrr0uJByuv&si=7W-j5j9ekygqpOiA","x":400,"y":240,"width":400,"height":200,"color":"5"},
+		{"id":"5b600ae049d54df0","type":"file","file":"images/Pasted image 20240310174606.png","x":1160,"y":1814,"width":907,"height":536},
+		{"id":"187bfbeac7b89ca6","type":"file","file":"images/Pasted image 20240310175250.png","x":-250,"y":-954,"width":555,"height":508},
+		{"id":"cbe82962177059b3","type":"link","url":"https://www.youtube.com/watch?v=8An0dRalJeM&list=PLFLVHSOGJXqIqz9edu0BNeSTrr0uJByuv&index=8","x":-1060,"y":-880,"width":640,"height":360},
+		{"id":"d619655e8f0d74b7","type":"file","file":"images/Pasted image 20240310175029.png","x":1160,"y":2440,"width":1477,"height":497},
+		{"id":"31b9ffabfcb99491","type":"link","url":"https://youtu.be/uHYSXkQ69OA?si=9xsV8616agiK2oTA","x":-420,"y":280,"width":640,"height":360},
+		{"id":"c9c3c42e6f6a8726","type":"link","url":"https://youtu.be/uSKdjjw5zow?si=dj0CLg_07ANet0mn","x":-420,"y":686,"width":640,"height":360},
+		{"id":"e8a1d3e72552b0d7","type":"file","file":"images/Pasted image 20240310145035.png","x":1173,"y":-446,"width":959,"height":410},
+		{"id":"40807b2dbb1472a1","type":"file","file":"images/Pasted image 20240310162703.png","x":1173,"y":33,"width":800,"height":443},
+		{"id":"c78a6420bd4bdd67","type":"file","file":"images/Pasted image 20240310173312.png","x":1173,"y":563,"width":880,"height":483},
+		{"id":"9e9bb2812cdcb5d7","type":"file","file":"images/Pasted image 20240310174107.png","x":1173,"y":1174,"width":967,"height":531},
+		{"id":"49c79d6913f39963","type":"file","file":"images/Pasted image 20240310181459.png","x":2880,"y":71,"width":1315,"height":739},
+		{"id":"c093d1786d369fe7","type":"link","url":"https://youtu.be/GfaHdjApnhU?si=21hldZvjsRTtCODY","x":2880,"y":-700,"width":1240,"height":749,"color":"4"},
+		{"id":"aa5d962801c34a80","type":"link","url":"https://youtu.be/VJxJCSEtY_0?si=yP68WcU0tm47rRpN","x":2880,"y":846,"width":1240,"height":745},
+		{"id":"7b585fb9b70c44e9","type":"text","text":"# SUMMARY","x":-915,"y":1261,"width":430,"height":82},
+		{"id":"de5aec418c0df2f1","type":"file","file":"images/Pasted image 20240310175619.png","x":-1647,"y":1440,"width":1894,"height":1096}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e27c84a67cf9dc87","fromNode":"47c2da3bf7619edd","fromSide":"bottom","toNode":"83b98a67448522bb","toSide":"top","color":"1","label":"dc-components"},
+		{"id":"ad3cb91462d77f5a","fromNode":"47c2da3bf7619edd","fromSide":"top","toNode":"8977ec39f3e74aab","toSide":"bottom"},
+		{"id":"f117aacbb4ffa99f","fromNode":"47c2da3bf7619edd","fromSide":"bottom","toNode":"31b9ffabfcb99491","toSide":"top","color":"4","label":"TOPOLOGY"},
+		{"id":"6a08674a8e46ea15","fromNode":"31b9ffabfcb99491","fromSide":"bottom","toNode":"c9c3c42e6f6a8726","toSide":"top"},
+		{"id":"b775f3e410719991","fromNode":"47c2da3bf7619edd","fromSide":"bottom","toNode":"0f77d0014bc3c3a3","toSide":"top","color":"3","label":"OSI FUNCTIONS"},
+		{"id":"8d021d4a6e469855","fromNode":"0f77d0014bc3c3a3","fromSide":"right","toNode":"e8a1d3e72552b0d7","toSide":"left","color":"6","label":"PHY"},
+		{"id":"3b97703d08b40cdb","fromNode":"0f77d0014bc3c3a3","fromSide":"right","toNode":"40807b2dbb1472a1","toSide":"left","color":"1","label":"DL"},
+		{"id":"5248c77fac93b001","fromNode":"0f77d0014bc3c3a3","fromSide":"right","toNode":"c78a6420bd4bdd67","toSide":"left","color":"4","label":"NW"},
+		{"id":"ad42b735ec7e504d","fromNode":"0f77d0014bc3c3a3","fromSide":"right","toNode":"9e9bb2812cdcb5d7","toSide":"left","color":"2","label":"Trans"},
+		{"id":"a9e419522389e2a8","fromNode":"0f77d0014bc3c3a3","fromSide":"right","toNode":"5b600ae049d54df0","toSide":"left","label":"session"},
+		{"id":"ed1f5d8736251e40","fromNode":"0f77d0014bc3c3a3","fromSide":"right","toNode":"d619655e8f0d74b7","toSide":"left","label":"pres"},
+		{"id":"05ec4e8f3db6b86b","fromNode":"187bfbeac7b89ca6","fromSide":"left","toNode":"cbe82962177059b3","toSide":"right"},
+		{"id":"1b69b3c4755b6114","fromNode":"7b585fb9b70c44e9","fromSide":"bottom","toNode":"de5aec418c0df2f1","toSide":"top"}
+	]
 }
