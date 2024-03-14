@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8d56cfd51b85a0a0",
+        "id": "14d6aa0a522b75ef",
         "type": "tabs",
         "children": [
           {
-            "id": "a97e470fc0222d80",
+            "id": "b3f226cd7b61e44a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "SE/SE-1.canvas",
+                "file": "CN/CN-3.canvas",
                 "viewState": {
-                  "x": 3764.5,
-                  "y": 110,
-                  "zoom": -2.879095735037169
+                  "x": 401.113889170167,
+                  "y": -4.180597949762642,
+                  "zoom": -0.5
                 }
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/SE-1.canvas",
+                "file": "CN/CN-3.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/SE-1.canvas",
+                "file": "CN/CN-3.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/SE-1.canvas"
+                "file": "CN/CN-3.canvas"
               }
             }
           }
@@ -167,22 +167,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a97e470fc0222d80",
+  "active": "b3f226cd7b61e44a",
   "lastOpenFiles": [
-    "CN/CN-3.canvas",
+    "CN/Untitled.canvas",
+    "images/Pasted image 20240314162846.png",
+    "images/Pasted image 20240314155917.png",
+    "images/Pasted image 20240314155115.png",
+    "images/Pasted image 20240314154943.png",
+    "images/Pasted image 20240314154752.png",
+    "images/Pasted image 20240314154717.png",
+    "images/Pasted image 20240314154618.png",
+    "images/Pasted image 20240314153430.png",
+    "images/Pasted image 20240314153229.png",
+    "images/Pasted image 20240314153205.png",
     "CN/CN-1.canvas",
-    "SE/SE-1.canvas",
-    "images/Pasted image 20240311154500.png",
-    "images/Pasted image 20240311154222.png",
-    "images/Pasted image 20240311154204.png",
-    "images/Pasted image 20240311154149.png",
-    "images/Pasted image 20240311154136.png",
-    "images/Pasted image 20240311154122.png",
-    "images/Pasted image 20240311154106.png",
-    "images/Pasted image 20240311154039.png",
-    "images/Pasted image 20240311145208.png",
-    "images/Pasted image 20240311145148.png",
+    "CN/CN-3.canvas",
     "HOME.md",
+    "SE/SE-1.canvas",
     "SE/Untitled.canvas",
     "SE",
     "CN/CN-1.md",
