@@ -5,7 +5,7 @@
     "dashboard-ReadLineLength",
     "canvas"
   ],
-  "cssTheme": "Minimal",
+  "cssTheme": "Border",
   "baseFontSize": 16,
   "nativeMenus": false,
   "theme": "moonstone"

@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "14d6aa0a522b75ef",
+        "id": "8d56cfd51b85a0a0",
         "type": "tabs",
         "children": [
           {
-            "id": "b3f226cd7b61e44a",
+            "id": "a97e470fc0222d80",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CN/CN-3.canvas",
+                "file": "CN/CN-4.canvas",
                 "viewState": {
-                  "x": 401.113889170167,
-                  "y": -4.180597949762642,
-                  "zoom": -0.5
+                  "x": 288.20362740791677,
+                  "y": 166.05126115864783,
+                  "zoom": -0.4
                 }
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CN/CN-3.canvas",
+                "file": "CN/CN-4.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CN/CN-3.canvas",
+                "file": "CN/CN-4.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CN/CN-3.canvas"
+                "file": "CN/CN-4.canvas"
               }
             }
           }
@@ -167,9 +167,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b3f226cd7b61e44a",
+  "active": "a97e470fc0222d80",
   "lastOpenFiles": [
-    "CN/Untitled.canvas",
+    "CN/cn-2.canvas",
+    "CN/CN-4.canvas",
+    "CN/CN-4.md",
+    "CN/CN-1.md",
+    "HOME.md",
     "images/Pasted image 20240314162846.png",
     "images/Pasted image 20240314155917.png",
     "images/Pasted image 20240314155115.png",
@@ -180,13 +184,10 @@
     "images/Pasted image 20240314153430.png",
     "images/Pasted image 20240314153229.png",
     "images/Pasted image 20240314153205.png",
+    "SE/SE-1.canvas",
+    "SE",
     "CN/CN-1.canvas",
     "CN/CN-3.canvas",
-    "HOME.md",
-    "SE/SE-1.canvas",
-    "SE/Untitled.canvas",
-    "SE",
-    "CN/CN-1.md",
     "images",
     "HOME/ARSHAD SEM-5.md",
     "HOME/Untitled Kanban.md",
@@ -214,7 +215,6 @@
     "RECORD/4/3. Study of Prolog, its facts, and rules..md",
     "RECORD/3/b. A* Algorithm.md",
     "RECORD/3/2. Write a program to implement Informed search techniques.md",
-    "RECORD/2/b. DFS.md",
     "RECORD/6",
     "RECORD/Untitled",
     "RECORD/5",
